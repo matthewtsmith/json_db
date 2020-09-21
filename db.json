@@ -1,5 +1,5 @@
 {
   "firetable-test": {
-    "hits": [{ "value": "Value 1", "subtitle": "This is a subtitle" }, { "value": "Value 2" }, { "value": "Value 3" }]
+    "results": [{ "title": "John Smith", "subtitle": "john.smith@fake.com" }, { "title": "Matthew Jones", "subtitle" : "matthew.jones@fake.com" }, { "title": "Jane Doe", "subtitle": "jane.doe@fake.com" }]
   }
 }
